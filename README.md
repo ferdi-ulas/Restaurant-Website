@@ -4,7 +4,7 @@
 
 ## 🧐 Key Features
 
-Our e-commerce app offers a range of features to provide users with a seamless shopping experience:
+ Our Restaurant Website app offers a range of features to provide users with a seamless shopping experience:
 
 
 - **Dynamic Product Pages:** Explore categorized products with detailed descriptions, pricing information, and user ratings.
@@ -12,4 +12,4 @@ Our e-commerce app offers a range of features to provide users with a seamless s
 - **Responsive Design:** Our app is designed to be responsive and accessible across various devices, providing a consistent experience for all users.
 
 
-# 🚀 [Demo]
+# 🚀 [Demo](https://restaurant-website-puce-ten.vercel.app/index.html)
